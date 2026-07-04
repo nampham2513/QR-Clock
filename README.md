@@ -19,3 +19,6 @@ But scanning QR codes is way cooler, right? 😎
 💡 Why?
 
 Just for fun — and because scanning time as a QR code is oddly satisfying.
+
+# Deployment
+Visit https://vite.dev/guide/static-deploy to deploy this repository with Github Pages
